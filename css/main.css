@@ -37,6 +37,13 @@ h2 {
   text-align: center;
   color: #696969;
 }
+h3 {
+  font-size: 1vw;
+  font-family: 'Raleway', Arial, Sans-serif;
+  font-weight: 300;
+  text-align: center;
+  color: white;
+}
 a {
   font-size: 2vw;
   font-family: 'Raleway', Arial, Sans-serif;
